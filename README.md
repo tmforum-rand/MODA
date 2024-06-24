@@ -29,15 +29,10 @@ XMI is a standard format used for exchanging metadata information via XML.  XMI 
    - In the `Project Browser`, right-click on the package you want to export.
 
 3. **Export to XMI**:
+   - Open your model
    - Select `Import/Export > Export Package to XMI...`.
    - Choose the desired XMI format and options.
    - Click `Save` and specify the location to save the XMI file.
    - Follow the prompts to complete the export process.
 
 
-## Contact
-For more information, contact [Giu Platania](mailto:gplatania@tmforum.org).
-
----
-
-Thank you for using the Sparx EA XMI Repository! We hope this resource facilitates your modeling and data-sharing processes.
